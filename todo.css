@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(6, 6, 45);
+}
+h1{
+    color: rgb(223, 249, 158);
+}
+p{
+    color: aliceblue;
+}
+
+#newdiv{
+    text-align: center;
+    margin-top: 200px;
+    font-size: larger;
+}
+
+#flexx{
+    color: aliceblue;
+}
+
+#display{
+    color: aliceblue;
+}
+
+.boom{
+    display: none;
+}
